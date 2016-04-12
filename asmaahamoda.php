@@ -4,7 +4,17 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
 </head>
+</html>
 
 <body>
+
+
+<?php 
+echo "asmaa hamoda "; 
+
+echo "hanan";
+
+?> 
+
 </body>
 </html>
